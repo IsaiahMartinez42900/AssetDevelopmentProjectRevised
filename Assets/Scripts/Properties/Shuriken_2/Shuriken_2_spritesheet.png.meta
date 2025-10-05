@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 9bc44234daef9ca41bf727436a381574
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5199380019633441065
+    second: Shuriken_2_spritesheet_0
+  - first:
+      213: 8843330470413101516
+    second: Shuriken_2_spritesheet_1
+  - first:
+      213: -2968016447176339788
+    second: Shuriken_2_spritesheet_2
+  - first:
+      213: -3432738376979975109
+    second: Shuriken_2_spritesheet_3
+  - first:
+      213: 3368377935738699931
+    second: Shuriken_2_spritesheet_4
+  - first:
+      213: -139797231453030212
+    second: Shuriken_2_spritesheet_5
+  - first:
+      213: 8195637257663622717
+    second: Shuriken_2_spritesheet_6
+  - first:
+      213: 1110334400435079468
+    second: Shuriken_2_spritesheet_7
+  - first:
+      213: 3930416173529561044
+    second: Shuriken_2_spritesheet_8
+  - first:
+      213: 6511723954450106477
+    second: Shuriken_2_spritesheet_9
+  - first:
+      213: 2828067499153586933
+    second: Shuriken_2_spritesheet_10
+  - first:
+      213: 8438578977049810872
+    second: Shuriken_2_spritesheet_11
+  - first:
+      213: 7216601859727029764
+    second: Shuriken_2_spritesheet_12
+  - first:
+      213: -6620579756483728690
+    second: Shuriken_2_spritesheet_13
+  - first:
+      213: 1757442963023389659
+    second: Shuriken_2_spritesheet_14
+  - first:
+      213: 4789730082444355179
+    second: Shuriken_2_spritesheet_15
+  - first:
+      213: 5926372813783788103
+    second: Shuriken_2_spritesheet_16
+  - first:
+      213: -6825256055254651213
+    second: Shuriken_2_spritesheet_17
+  - first:
+      213: -6719069782643370090
+    second: Shuriken_2_spritesheet_18
+  - first:
+      213: 3564891925850486460
+    second: Shuriken_2_spritesheet_19
+  - first:
+      213: -4398659018958488341
+    second: Shuriken_2_spritesheet_20
+  - first:
+      213: 4072712307205550218
+    second: Shuriken_2_spritesheet_21
+  - first:
+      213: -4966369968204051367
+    second: Shuriken_2_spritesheet_22
+  - first:
+      213: -8448481526312352806
+    second: Shuriken_2_spritesheet_23
+  - first:
+      213: -3368104678267929911
+    second: Shuriken_2_spritesheet_24
+  - first:
+      213: -6048154264444340099
+    second: Shuriken_2_spritesheet_25
+  - first:
+      213: -7764396960555933863
+    second: Shuriken_2_spritesheet_26
+  - first:
+      213: -2165445416511317834
+    second: Shuriken_2_spritesheet_27
+  - first:
+      213: -1791192348292560582
+    second: Shuriken_2_spritesheet_28
+  - first:
+      213: 1403239178631041669
+    second: Shuriken_2_spritesheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1314
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63c7d6b6718d7b0800000000000000
+      internalID: -5199380019633441065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1316
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc96c587532d9ba70800000000000000
+      internalID: 8843330470413101516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1318
+        width: 178
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be898a34cc7fc6d0800000000000000
+      internalID: -2968016447176339788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1326
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34f14132a67c50d0800000000000000
+      internalID: -3432738376979975109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1324
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9008f8d2e1eebe20800000000000000
+      internalID: 3368377935738699931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1056
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8b8ae98275f0ef0800000000000000
+      internalID: -139797231453030212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1049
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2ffad9a0ccb170800000000000000
+      internalID: 8195637257663622717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1043
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2944df1143b86f00800000000000000
+      internalID: 1110334400435079468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1044
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7fda28fa4ab8630800000000000000
+      internalID: 3930416173529561044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68866c9f6a4e5a50800000000000000
+      internalID: 6511723954450106477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 812
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa70ef18605f3720800000000000000
+      internalID: 2828067499153586933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 804
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71220cedadb1570800000000000000
+      internalID: 8438578977049810872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 790
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f37ef725862460800000000000000
+      internalID: 7216601859727029764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 787
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca25afe9c9fe14a0800000000000000
+      internalID: -6620579756483728690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 795
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3e4044011b36810800000000000000
+      internalID: 1757442963023389659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 556
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662916022a887240800000000000000
+      internalID: 4789730082444355179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 546
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6d14cca4be3250800000000000000
+      internalID: 5926372813783788103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 533
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be667d87c1d741a0800000000000000
+      internalID: -6825256055254651213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 531
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6971b70c1a111c2a0800000000000000
+      internalID: -6719069782643370090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 539
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f9f6a15a097130800000000000000
+      internalID: 3564891925850486460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 298
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec39e66de2d4f2c0800000000000000
+      internalID: -4398659018958488341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 295
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a803957e34e258830800000000000000
+      internalID: 4072712307205550218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 282
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c870ea3d8e31bb0800000000000000
+      internalID: -4966369968204051367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 276
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c3b450d6f0ca80800000000000000
+      internalID: -8448481526312352806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 275
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca328dd3a61241d0800000000000000
+      internalID: -3368104678267929911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f701bdb3a01ca0800000000000000
+      internalID: -6048154264444340099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 26
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd0f61a125f3490800000000000000
+      internalID: -7764396960555933863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85850eddac2f1e0800000000000000
+      internalID: -2165445416511317834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 33
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39cf93ac086427e0800000000000000
+      internalID: -1791192348292560582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shuriken_2_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 34
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582d639299e497310800000000000000
+      internalID: 1403239178631041669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shuriken_2_spritesheet_0: -5199380019633441065
+      Shuriken_2_spritesheet_1: 8843330470413101516
+      Shuriken_2_spritesheet_10: 2828067499153586933
+      Shuriken_2_spritesheet_11: 8438578977049810872
+      Shuriken_2_spritesheet_12: 7216601859727029764
+      Shuriken_2_spritesheet_13: -6620579756483728690
+      Shuriken_2_spritesheet_14: 1757442963023389659
+      Shuriken_2_spritesheet_15: 4789730082444355179
+      Shuriken_2_spritesheet_16: 5926372813783788103
+      Shuriken_2_spritesheet_17: -6825256055254651213
+      Shuriken_2_spritesheet_18: -6719069782643370090
+      Shuriken_2_spritesheet_19: 3564891925850486460
+      Shuriken_2_spritesheet_2: -2968016447176339788
+      Shuriken_2_spritesheet_20: -4398659018958488341
+      Shuriken_2_spritesheet_21: 4072712307205550218
+      Shuriken_2_spritesheet_22: -4966369968204051367
+      Shuriken_2_spritesheet_23: -8448481526312352806
+      Shuriken_2_spritesheet_24: -3368104678267929911
+      Shuriken_2_spritesheet_25: -6048154264444340099
+      Shuriken_2_spritesheet_26: -7764396960555933863
+      Shuriken_2_spritesheet_27: -2165445416511317834
+      Shuriken_2_spritesheet_28: -1791192348292560582
+      Shuriken_2_spritesheet_29: 1403239178631041669
+      Shuriken_2_spritesheet_3: -3432738376979975109
+      Shuriken_2_spritesheet_4: 3368377935738699931
+      Shuriken_2_spritesheet_5: -139797231453030212
+      Shuriken_2_spritesheet_6: 8195637257663622717
+      Shuriken_2_spritesheet_7: 1110334400435079468
+      Shuriken_2_spritesheet_8: 3930416173529561044
+      Shuriken_2_spritesheet_9: 6511723954450106477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
