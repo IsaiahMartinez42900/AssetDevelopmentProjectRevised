@@ -292,7 +292,7 @@ public class PlayerControl : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 FireProjectile();
-                
+                animator.SetTrigger("NinjaThrow");
             }
         }
         

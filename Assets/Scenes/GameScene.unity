@@ -442,8 +442,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4704adf934ddd4db0a2e8a48cec0266d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 0}
-  musicVolume: 1
+  music: {fileID: 8300000, guid: dcbfa5db110616846a8c8f05c2fa4db9, type: 3}
+  musicVolume: 0.309
   ambience: {fileID: 0}
   ambienceVolume: 1
   playerMove: {fileID: 0}
@@ -474,7 +474,7 @@ MonoBehaviour:
   playerVisuals:
     animController: {fileID: 9100000, guid: c7e8bed2838773e4caca88e0e670fc24, type: 2}
     defaultSprite: {fileID: 0}
-    color: {r: 0.14117643, g: 0.29628542, b: 1, a: 1}
+    color: {r: 0.15561086, g: 0.16902035, b: 0.17610055, a: 0.88235295}
     allowPlayerRotation: 0
   projectileVisuals:
     animController: {fileID: 0}
@@ -483,7 +483,7 @@ MonoBehaviour:
   tileVisuals:
     animController: {fileID: 0}
     sprite: {fileID: 0}
-    color: {r: 0.3137255, g: 0.3137255, b: 0.3137255, a: 1}
+    color: {r: 0.5276997, g: 0.9056604, b: 0.5040939, a: 1}
   crateVisuals:
     animController: {fileID: 0}
     sprite: {fileID: -5281422124547630143, guid: 52d02b3eb6486c64da26e59442874359, type: 3}
@@ -495,7 +495,7 @@ MonoBehaviour:
   blockVisuals:
     animController: {fileID: 0}
     sprite: {fileID: 0}
-    color: {r: 0.13919531, g: 0.22684254, b: 0.8679245, a: 1}
+    color: {r: 0.19182372, g: 0.534904, b: 1, a: 1}
   goalVisuals:
     animController: {fileID: 0}
     sprite: {fileID: 1324973927585195569, guid: c9e52cd6742a28d44a2a45e528535cf7, type: 3}
